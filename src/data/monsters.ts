@@ -63,7 +63,7 @@ export const MONSTERS_DATA: Monster[] = [
     modificateurPV: [8, 12],
     stats: { 
       Vitalité: 50,  // 50 * 0.3 = 15 PV au niveau 1
-      Agilité: 14, 
+      Agilité: 60, 
       Mentalité: 12, 
       Force: 18 
     },
